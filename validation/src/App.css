@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  background-color: rgb(76, 76, 255);
+  padding: 10px;
+  box-shadow: 0rem 0.2rem 0.2rem 0rem gray;
+  font-size: 1.3em;
+}
+
+.Link {
+  color: white;
+  padding: 1vw;
+}
+
+.Link:hover {
+  color: rgb(62, 60, 60);
+}
